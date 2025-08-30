@@ -1,5 +1,6 @@
 # Desarrollo-de-operaciones-tecnol-gicas
 Materia: Desarrollo de aplicaciones tecnologicas.
+
 Alumnos: Villanueva Alarcon Martha Patricia
          Antonio Nicolás Alfredo
 
